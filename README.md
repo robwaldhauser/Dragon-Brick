@@ -39,6 +39,8 @@ If you like this project, consider [tipping](https://www.Ko-fi.com/robxberty)!
 Contributions are welcome! Feel free to submit issues, feature requests, and pull requests. Check the Contributing Guide for more details.
 Please also consider [tipping](https://www.Ko-fi.com/robxberty) to help with further development!
 
+Please also consider checking out the original [Dragon Burner](https://github.com/chirpy2605/voron/tree/main/V0/Dragon_Burner) by chirpy2605 and sending a tip his way!
+
 ## License 📄
 
 This project is licensed under the MIT License.
