@@ -1,7 +1,7 @@
 # Dragon-Brick Toolhead 🐉
 
 The Dragon-Brick toolhead was born with toolchanging in mind. What started as a Dragon-Burner toolhead has become a super compact and sturdy toolhead that features a front mounted PCB as well as sturdy docking points for the MadMax Toolchanger.
-![DragonBrick](https://github.com/user-attachments/assets/b53b088a-4dc9-404c-8aab-995deca45be9)
+![Dragon-Brick](https://github.com/user-attachments/assets/c7a6bdaf-0203-4216-80af-660eae2c6323)
 
 If you like this project, consider [tipping](https://www.Ko-fi.com/robxberty)!
 
@@ -33,9 +33,6 @@ If you like this project, consider [tipping](https://www.Ko-fi.com/robxberty)!
 
 - Add support for additional extruder types.
 - Improve documentation guides.
-
-![DragonBurner-profile](https://github.com/user-attachments/assets/e8d4d2bb-8d8e-485a-8c2f-06cb2ea62d58)
-
 
 ## Contributing 🤝
 
